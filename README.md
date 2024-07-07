@@ -2,6 +2,8 @@
 With this program you can simulate creation of a file system of folders and regular files.<br>
 I illustrate my OOP knowledge by implementing composite design pattern to accomplish this task.<br>
 
+Although there are some known bugs, my main goal of implementing the design pattern is achieved.
+
 ## Run Examples
 ### The input and output are through the terminal
 #### Example 1
