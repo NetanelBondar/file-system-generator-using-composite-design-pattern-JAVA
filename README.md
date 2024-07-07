@@ -17,7 +17,8 @@ Although there are some known bugs, my main goal of implementing the design patt
 /home/user/documents/folder1/file2.txt<br>
 /home/user/pictures<br>
 abc/def<br>
-exit<br>
+exit
+
 **output:** <br>
 Directory: /root<br>
 Directory: /root/home<br>
@@ -39,7 +40,8 @@ Directory: /root/abc/def
 /home/user/pictures<br>
 /home/user/pictures/photo.jpg<br>
 /home/user/pictures/photo.jpg/album<br>
-exit<br>
+exit
+
 **output:** <br>
 Can't add the path 'file1.txt/invalid' in the simple file 'file1.txt'<br>
 Can't add the path 'photo.jpg/album' in the simple file 'photo.jpg'<br>
