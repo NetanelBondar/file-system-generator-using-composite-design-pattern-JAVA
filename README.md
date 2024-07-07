@@ -1,8 +1,11 @@
 # File System Generator using Composite Design Pattern
-With this program you can simulate creation of a file system of folders and regular files.<br>
-I illustrate my OOP knowledge by implementing composite design pattern to accomplish this task.<br>
+With this program you can simulate creation of a file system of folders and regular files.
+
+I illustrate my OOP knowledge by implementing composite design pattern to accomplish this task.
 
 Although there are some known bugs, my main goal of implementing the design pattern is achieved.
+
+[JavaDoc](api/index.html)
 
 ## Run Examples
 ### The input and output are through the terminal
