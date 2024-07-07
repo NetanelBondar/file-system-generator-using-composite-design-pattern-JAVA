@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Main","l":"CompositeFolder"},{"p":"Main","l":"File"},{"p":"Main","l":"Folder"},{"p":"Main","l":"FoldersManager"},{"p":"Main","l":"Main"}];updateSearchResults();
